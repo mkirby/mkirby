@@ -1,5 +1,3 @@
-# Matthew Robbins Kirby
-
 Full stack web developer with 7 years experience leading fast paced entertainment industry productions and a proven record of delivering quality products to clients, by leveraging developed skills such as leadership, task prioritization and project/product management. Passion to help social, environmental, and racial justice causes.
 
 ### Projects
