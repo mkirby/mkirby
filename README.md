@@ -25,7 +25,7 @@ Full stack web developer with 7 years experience leading fast paced entertainmen
 ### Github Stats
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mkirby&show_icons=true&theme=dark"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkirby&show_icons=true&theme=dark&card_width=320&layout=compact"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkirby&show_icons=true&theme=dark&layout=compact"/>
 
 ### Technologies
 
